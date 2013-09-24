@@ -363,7 +363,7 @@ python-paramiko-1.7.5-2.1.el6
 python-passlib-1.5.3-1.el6
 python-paste-1.7.5.1-4.20111221hg1498.el6
 python-paste-deploy1.5-1.5.0-5.el6
-python-pbr-0.5.21-mira.2
+python-pbr
 python-pip-0.8-1.el6
 python-prettytable-0.6.1-1.el6
 python-py-1.4.15-1.el6
@@ -375,7 +375,7 @@ python-quantumclient-2.2.1.fuel3.2-mira.1
 python-requests-0.14.1-4.el6
 python-rhsm-1.1.8-mira.1
 python-routes1.12-1.12.3-4.el6
-python-routes-1.13-1.el6
+python-routes
 python-seqdiag-0.8.2-1
 python-setuptools-0.6.10-3.el6
 python-simplejson-2.6.0-2.el6
